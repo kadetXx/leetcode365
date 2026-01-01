@@ -1,3 +1,3 @@
-# 365 Days Of Leetcode
+# Kadet's 365 Days Of Leetcode
 
-Repository containing my journey, solutions & though processes for the 365 days of leetcode challenge.
+Repository containing my journey, solutions & though processes for the 365 days of leetcode challenge. 
