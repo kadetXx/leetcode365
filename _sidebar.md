@@ -1,3 +1,2 @@
 - [Home](/)
-- **Solutions**
-  - [D001 - Contains Duplicates](D001-contains-duplicates.md)
+- [D001 - Contains Duplicates](D001-contains-duplicates.md)
