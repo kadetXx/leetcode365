@@ -1,2 +1,3 @@
 - [Home](/)
 - [D001 - Contains Duplicates](D001-contains-duplicates.md)
+- [D002 - Valid Anagram](D002-valid-anagram.md)
