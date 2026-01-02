@@ -80,6 +80,9 @@ func isAnagram(s string, t string) bool {
 	return nonZero == 0
 }
 ```
+<img width="980" height="193" alt="Screenshot 2026-01-02 at 23 30 45" src="https://github.com/user-attachments/assets/75e5f10a-7848-464d-a543-5e81e2aa51c4" />
+
+
 
 ## # complexity
 
